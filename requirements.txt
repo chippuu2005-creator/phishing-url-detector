@@ -1,0 +1,4 @@
+# This educational project uses only Python standard-library modules.
+# No third-party packages are required to run the notebook.
+jupyter>=1.0.0
+notebook>=7.0.0
